@@ -1,4 +1,4 @@
-# Github Scraping
+# Password Generator
 
 This project creates a lot of hard password with words, numbers and special characters.
 
